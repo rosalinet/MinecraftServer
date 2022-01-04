@@ -1,4 +1,3 @@
-# MinecraftServer
 
 This is a personal server made by me, TooMatcha 
 CURRENT ADMINS: TooMatcha, anthonywil
@@ -18,11 +17,33 @@ TooMatcha.mcpro.io
 
 OR
 
-51.222.108.13:41539
+142.44.254.87
 
 Assuming you downloaded everything correctly, you should see a green checkmark next to the listed server that was named whatever you decided to name it. From there, just click in and you should be loaded into my modded server!
 
 There will be rules and guidelines written at the spawnpoint of the server, and the difficulty is hard, but you keep your items after death as the mobs are VICIOUS!
+
+------------------------
+
+Now, while this map randomly generates a TON of cool structures like dragons' nests, dungeons, castles, and even ice temples, I've compiled a list of a few areas that I think are pretty cool. This modpack has sun village soldiers, knights, vikings, elephants, raccoons, deer, dragons, and even bosses in certain areas/biomes, so be careful!
+
+Also, many of the structures near the Spawn Hub have already been explored and looted, but the structures and mobs themselves are worth checking out!
+
+Here are some neat coordinates:
+
+Our Beautiful Spawn Hub (Semi-Map-Generated, Semi-Player Created): 
+4240, ~, -2300
+- This is where every new player spawns. The server's rules/guidelines and a care package for new players can be found here!
+
+Marketplace (Map-Generated): 
+4373, ~, -1932
+- This area has a cute marketplace, a wild-west town, a castle, AND a sun village!
+(Lots of hostile mobs; BEWARE!) 
+
+Admins' Castle (Semi-Map-Generated, Semi-Player Created):
+3260, ~, -2970
+This is the admins' castle. The walls were amp-generated, but the inside is entirely made by me. There is a free gift by one of the entrances for those who visit!
+
 
 ------------------------
 
